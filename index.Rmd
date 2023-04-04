@@ -1,11 +1,11 @@
 ---
 title: "Elin Waring"
-image: "tobi.jpg"
+image: "MJB_3529-Elin-small.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/elinwaring"
   - label: GitHub
     url: "https://github.com/elinw"
   - label: Email
